@@ -1,0 +1,14 @@
+.CatalogPage {
+
+    .heading {
+        grid-column: span 2;
+        justify-self: start;
+        align-self: self-end;
+    }
+
+    .noData {
+        padding-top : 40px;
+        font-size: 4rem;
+        color : #FD8A8A;
+    }
+}

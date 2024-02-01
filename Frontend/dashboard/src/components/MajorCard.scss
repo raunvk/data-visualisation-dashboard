@@ -1,0 +1,31 @@
+.MajorCard {
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    ;
+
+    .title{
+        font-size: 2.25rem;
+    }
+
+    .topic, .sector, .pestle, .swot, .source{
+        font-size: 1.75rem;
+    }
+
+    .titleDiv {
+        text-align: right;
+    }
+
+    .otherDiv {
+        text-align: left;
+        & > h3 {
+            margin-bottom: 10px;
+        }
+    }
+
+    .highlighter {
+        color: #85F4FF;
+    }
+}

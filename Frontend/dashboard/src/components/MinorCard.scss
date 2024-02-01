@@ -1,0 +1,28 @@
+.MinorCard1, .MinorCard2 {
+    
+    margin-bottom: 20px;
+
+    .highlighter {
+        color: #FEFF86;
+    }
+
+    .info {
+        color: #FD8A8A;
+    }
+
+    & > h5 {
+        margin-bottom: 10px;
+    }
+
+    & > p {
+        margin-bottom: 10px;
+    }
+}
+
+.MinorCard1 {
+    font-size: 2rem;
+}
+
+.MinorCard2 {
+    text-align: right;
+}

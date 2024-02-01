@@ -1,0 +1,26 @@
+.HomePage {
+
+    .homeGrid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 20px;
+        grid-row-gap: 20px;
+        font-size: 0.75rem;
+        padding-bottom: 40px;
+        margin: 0 auto;
+        width: 1300px;
+        padding-bottom: 75px;
+        padding-left: 150px;
+    }
+
+    .headerSection {
+        padding-top: 75px;
+        padding-bottom: 50px;
+        color: #FEFF86;
+    }
+
+    .appName {
+        font-size: 4.25rem;
+        text-align: center;
+    }
+}

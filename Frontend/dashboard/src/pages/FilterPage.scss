@@ -1,0 +1,18 @@
+.FilterPage {
+
+    .filterGrid {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-column-gap: 20px;
+        grid-row-gap: 20px;
+        font-size: 1rem;
+        padding-bottom: 40px;
+    }
+
+    .headerSection {
+        padding-top: 40px;
+        padding-bottom: 40px;
+        color: #FEFF86;
+        font-size: 1.5rem;
+    }
+}

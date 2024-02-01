@@ -1,0 +1,37 @@
+.DataPage {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+
+    .heading {
+        grid-column: span 2;
+        justify-self: start;
+        align-self: self-end;
+    }
+
+    .insight{
+        font-size: 4rem;
+        color: #FEFF86;
+    }
+
+    .major {
+        grid-column: span 2;
+    }
+
+    .minorData {
+        grid-column: span 1;
+    }
+
+    .minorMetric {
+        grid-column: span 1;
+        text-align: right;
+        padding-left: 400px;
+    }
+
+    .noData {
+        padding-top: 40px;
+        color : #FD8A8A;
+    }
+}

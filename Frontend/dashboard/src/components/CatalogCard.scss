@@ -1,0 +1,44 @@
+.CatalogCard {
+
+    margin-top: 75px;
+    margin-bottom: 100px;
+
+    .gridDiv {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .headingDiv {
+        font-size: 1.5rem;
+    }
+
+    .subHeadingDiv {
+        font-size: 1.5rem;
+        text-align: right;
+    }
+
+    .otherDiv {
+        text-align: left;
+        & > h3 {
+            margin-bottom: 10px;
+        }
+    }
+
+    .highlighter {
+        color: #85F4FF;
+    }
+
+    .info {
+        color: #B5FE83;
+    }
+
+    .otherDiv {
+        font-size: 1.2rem;
+    }
+
+    .headingDiv {
+        color: #FEFF86;
+    }
+}
