@@ -6,7 +6,7 @@
 
 **How to Run (Windows)** :
 
-1. Create Database called "Blackcoffer" in MySQL [**create database Blackcoffer;**]
+1. Create Database called "Dashboard" in MySQL [**create database Dashboard;**]
 
 2. Import Backend files to an IDE like Eclipse
 
