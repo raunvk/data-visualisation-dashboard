@@ -56,15 +56,14 @@
 21. **Retrieve All Sources** -> GET /source/
 22. **Retrieve All Cities** -> GET /city/
 23. **Retrieve All Countries** -> GET /country/
-24. **Retrieve All Filter Options** -> GET /filter/
-25. **Retrieve Start Year Frequency for Chart** -> GET /chart/startyear/
-26. **Retrieve End Year Frequency for Chart** -> GET /chart/endyear/
-27. **Retrieve Topic Frequency for Chart** -> GET /chart/topic/
-28. **Retrieve Sector Frequency for Chart** -> GET /chart/sector/
-29. **Retrieve Region Frequency for Chart** -> GET /chart/region/
-30. **Retrieve SWOT Frequency for Chart** -> GET /chart/swot/
-31. **Retrieve PESTLE Frequency for Chart** -> GET /chart/pestle/
-32. **Retrieve Source Frequency for Chart** -> GET /chart/source/
-33. **Retrieve City Frequency for Chart** -> GET /chart/city/
-34. **Retrieve Country Frequency for Chart** -> GET /chart/country/
+24. **Retrieve Start Year Frequency for Chart** -> GET /chart/startyear/
+25. **Retrieve End Year Frequency for Chart** -> GET /chart/endyear/
+26. **Retrieve Topic Frequency for Chart** -> GET /chart/topic/
+27. **Retrieve Sector Frequency for Chart** -> GET /chart/sector/
+28. **Retrieve Region Frequency for Chart** -> GET /chart/region/
+29. **Retrieve SWOT Frequency for Chart** -> GET /chart/swot/
+30. **Retrieve PESTLE Frequency for Chart** -> GET /chart/pestle/
+31. **Retrieve Source Frequency for Chart** -> GET /chart/source/
+32. **Retrieve City Frequency for Chart** -> GET /chart/city/
+33. **Retrieve Country Frequency for Chart** -> GET /chart/country/
 
