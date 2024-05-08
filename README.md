@@ -5,6 +5,7 @@
 **Tech Stack** : Spring Batch, Spring Boot, MySQL, Bootstrap, ReactJS, ChartsJS
 
 **Overview** :
+
 1. **Spring Batch** : Transfers large-scale data from CSV files to MySQL database efficiently.
 2. **Spring Boot** : Creates REST endpoints to fetch and manipulate data from MySQL database.
 3. **MySQL Database** : Stores and manages the data transferred from CSV files using Spring Batch.
@@ -14,6 +15,7 @@
 
 
 **How to Run (Windows)** :
+
 1. Create Database called "Dashboard" in MySQL [**create database Dashboard;**]
 2. Import Backend files to an IDE like Eclipse
 3. Run Backend by executing DashboardApplication.java file
@@ -24,11 +26,13 @@
 8. Go to http://localhost:3000 on your Browser to access the Application
 
 **Sample Screenshot** :
+
 ![](screenshot1.png)
 ![](screenshot2.png)
 ![](screenshot3.png)
 
 **API Documentation** :
+
 1. **Retrieve All Data** -> GET /
 2. **Retrieve Data by ID** -> GET /id/{id}
 3. **Retrieve Data by Start Year** -> GET /startyear/{year}
