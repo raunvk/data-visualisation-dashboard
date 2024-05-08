@@ -1,6 +1,6 @@
 # data-visualisation-dashboard
 
-**Description** : Web Application to Browse and Visualise large scale Data
+**Description** : Web Application to Browse & Visualise large scale Data
 
 **Tech Stack** : Spring Batch, Spring Boot, MySQL, ReactJS, ChartsJS, Bootstrap
 
