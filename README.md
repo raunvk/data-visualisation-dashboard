@@ -25,7 +25,7 @@
 7. Run Frontend by executing the command [**npm start**]
 8. Go to http://localhost:3000 on your Browser to access the Application
 
-**Sample Screenshot** :
+**Sample Screenshots** :
 
 ![](screenshot1.png)
 ![](screenshot2.png)
