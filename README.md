@@ -22,7 +22,7 @@
 5. Goto path "Frontend/dashboard/" in VSCode Terminal
 6. Run commands [**npm install**] & [**npm install sass**] for necessary Node Modules
 7. Run Frontend by running the command [**npm start**]
-8. Go to http://localhost:3000 on your Browser to access the Application
+8. Go to [**http://localhost:3000**] on your Browser to access the Application
 
 **Sample Screenshots** :
 
