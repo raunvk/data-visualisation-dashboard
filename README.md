@@ -2,7 +2,7 @@
 
 **Description** : Web Application to Browse and Visualise large scale Data
 
-**Tech Stack** : Spring Batch, Spring Boot, MySQL, Bootstrap, ReactJS, ChartsJS
+**Tech Stack** : Spring Batch, Spring Boot, MySQL, ReactJS, ChartsJS, Bootstrap
 
 **Overview** :
 
@@ -10,8 +10,8 @@
 2. **Spring Boot** : Creates REST endpoints to fetch and manipulate data from MySQL database.
 3. **MySQL Database** : Stores and manages the data transferred from CSV files using Spring Batch.
 4. **ReactJS** : Uses React components to constructs dynamic user interfaces for frontend rendering.
-5. **Bootstrap** : Provides responsive design and layout utilities for enhanced UI presentation.
-6. **ChartsJS**: Visualizes the data using interactive bar graphs and pie charts for presentation.
+5. **ChartsJS**: Visualizes the data using interactive bar graphs and pie charts for presentation.
+6. **Bootstrap** : Provides responsive design and layout utilities for enhanced UI presentation.
 
 
 **How to Run (Windows)** :
