@@ -10,7 +10,7 @@
 2. **Spring Boot** : Creates REST endpoints to fetch and manipulate data from MySQL database
 3. **MySQL Database** : Stores and manages the data transferred from CSV files using Spring Batch
 4. **ReactJS** : Uses React components to constructs dynamic user interfaces for frontend rendering
-5. **ChartJS**: Visualizes the data using interactive bar graphs and pie charts for presentation
+5. **ChartJS**: Visualises the data using interactive bar graphs and pie charts for presentation
 6. **Bootstrap** : Provides responsive design and layout utilities for enhanced UI presentation
 
 **How to Run (Windows)** :
