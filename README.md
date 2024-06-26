@@ -20,7 +20,7 @@
 3. Run Backend by running DashboardApplication.java file
 4. Import Frontend files to an IDE like VSCode
 5. Goto path "Frontend/dashboard/" in VSCode Terminal
-6. Run commands [**npm install**] & [**npm install sass**] for necessary Node Modules
+6. Run commands [**npm install**] for necessary Node Modules
 7. Run Frontend by running the command [**npm start**]
 8. Go to http://localhost:3000 on your Browser to access the Application
 
