@@ -22,7 +22,7 @@ export const HomePage = () => {
     return (
         <div className='HomePage'>
             <div className='headerSection'>
-                <h1 className='appName'>◄ Data Visualization Dashboard ►</h1>
+                <h1 className='appName'>◄ Dataview ►</h1>
             </div>
             <div className='homeGrid'>
                 <div>{records.map(record => <HomeCard1 record={record}/>)}</div>
