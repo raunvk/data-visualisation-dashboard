@@ -25,9 +25,9 @@
 
 **Sample Screenshots** :
 
-![](screenshot1 - Copy.png)
-![](screenshot2 - Copy.png)
-![](screenshot3 - Copy.png)
+![](screenshot1.png)
+![](screenshot2.png)
+![](screenshot3.png)
 
 **API Documentation** :
 
