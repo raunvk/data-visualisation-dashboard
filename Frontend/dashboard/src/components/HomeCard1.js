@@ -11,7 +11,7 @@ export const HomeCard1 = ({record}) => {
 
     return (
         <div className='homeCard'>
-            <h1><span className='bullet'>🔍︎</span>&emsp;<Link to={route}><span className='record'>Search by <span className='keyword'>{keyword}</span></span></Link></h1>
+            <h1><span className='bullet'>🔍︎</span>&emsp;<Link to={route}><span className='record'>Filter Search by <span className='keyword'>{keyword}</span></span></Link></h1>
         </div>
     )
 
